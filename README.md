@@ -1,5 +1,8 @@
 ## KnoxChat Desktop App
 
+| ![](./media/cover.png) |
+|-|
+
 ### Gatekeeper / "App is Damaged"
 
 When downloading KnoxChat.app (or `.dmg`) from [Releases](https://github.com/knoxchat/desktop/releases), macOS adds a **quarantine** extended attribute. Since the app is not code-signed and notarized by Apple, Gatekeeper blocks it with:
