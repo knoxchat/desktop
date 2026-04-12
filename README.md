@@ -1,6 +1,9 @@
 ## KnoxChat Desktop App
 
-| ![](./media/cover.png) |
+| ![](./media/screenshot-1.png) |
+|-|
+
+| ![](./media/screenshot-2.png) |
 |-|
 
 ### Gatekeeper / "App is Damaged"
