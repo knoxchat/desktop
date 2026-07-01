@@ -17,10 +17,10 @@ KnoxChat Desktop combines enterprise-grade AI capabilities with a native desktop
 Access the world's leading AI models through a single unified interface:
 
 - **OpenAI** — GPT-5.5, GPT-5.4, and more
-- **Anthropic** — Claude Opus 4.7, Claude Sonnet 4.6, Claude Haiku 4.5
+- **Anthropic** — Claude Opus 4.8, Claude Sonnet 5, Claude Haiku 4.5
 - **Google** — Gemini 3.1 Pro, Gemini Flash
 - **DeepSeek** — DeepSeek V4 Pro, DeepSeek V4 Flash
-- **Qwen** — Qwen 3.6 Max, Qwen 3.6 Plus
+- **Qwen** — Qwen3.7 Max
 - **And 60+ more providers** — Mistral, XAI Grok, MiniMax, Perplexity, and beyond
 
 No more juggling multiple subscriptions or switching between apps. One API key, one interface, unlimited possibilities.
