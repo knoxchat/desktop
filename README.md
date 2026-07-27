@@ -1,9 +1,9 @@
 # KnoxChat Desktop
 
-| ![](./media/screenshot-7.png) |
+| ![](./media/screenshot-9.png) |
 |-|
 
-| ![](./media/screenshot-8.png) |
+| ![](./media/screenshot-10.png) |
 |-|
 
 A powerful, cross-platform desktop application that brings the full KnoxChat AI platform to your desktop with an integrated VS Code-based code editor.
